@@ -40,8 +40,8 @@ const Footer = () => {
           {[
             { icon: <FaFacebook />, link: "https://www.facebook.com/tarun.kaushik.3511041/" },
             { icon: <FaTwitter />, link: "https://twitter.com/CodingMaster6?s=09" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/tarun-kaushik-553b441a4" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/coding_.master/" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/omkar-kabugade-306460199/" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/_omkar_30/" },
             { icon: <FaYoutube />, link: "https://www.youtube.com/codingmasteryt" },
             
           ].map((item, index) => (
